@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+   <dock>true</dock>
+   <autostart>true</autostart>
+   <backcolor>000000</backcolor>
+   <frontcolor>CCCCCC</frontcolor>
+   <screencolor>000000</screencolor>
+   <volume>50</volume>
+   <logo>http://www.firsttimer.ca/images/firsttimer-logo2cropsmall.jpg</logo>
+   <controlbar>over</controlbar>
+   <plugins>viral,sharing-1</plugins>
+</config>

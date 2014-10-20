@@ -1,0 +1,83 @@
+<playlist version="1">
+<trackList>
+<track>
+<title>1. Montreal Car Show - McGill Friends</title>
+<meta rel="type">video</meta>
+<location>
+../ftvideos/CIMG1353_96127583.flv
+</location>
+<image>
+../ftvideos/thumbs/CIMG1353_96127583.jpg
+</image>
+<annotation>
+See our firsttime tour to the Montreal Car Show in 2006.
+</annotation>
+</track>
+<track>
+<title>2. Lin Zhilin firsttime on KangXiLaLe</title>
+<meta rel="type">video</meta>
+<location>
+../ftvideos/l1_40891637.flv
+</location>
+<image>
+../ftvideos/thumbs/l1_40891637.jpg
+</image>
+<annotation>
+See asian beauty Lin Zhilin firsttime on KangXiLaiLe.
+</annotation>
+</track>
+<track>
+<title>3. My dog DaiDai firsttime on video</title>
+<meta rel="type">video</meta>
+<location>
+../ftvideos/MVI_0015_89724510.flv
+</location>
+<image>
+../ftvideos/thumbs/MVI_0015_89724510.jpg
+</image>
+<annotation>
+See my dog DaiDai firsttime on video (filmed by my dad).
+</annotation>
+</track>
+<track>
+<title>4. 无间道-武汉话版(funny)</title>
+<meta rel="type">video</meta>
+<location>
+../ftvideos/www.mmxxdd.com.16_72635108.flv
+</location>
+<image>
+../ftvideos/thumbs/www.mmxxdd.com.16_72635108.jpg
+</image>
+<annotation>
+A very funny video clip spoken in 武汉话.
+</annotation>
+</track>
+<track>
+<title>5. My wife working in KLM bussiness class</title>
+<meta rel="type">video</meta>
+<location>
+../ftvideos/CIMG2603_23185906.flv
+</location>
+<image>
+../ftvideos/thumbs/CIMG2603_23185906.jpg
+</image>
+<annotation>
+My firsttime experience in KLM bussiness class served by my wife.
+</annotation>
+</track>
+<track>
+<title>6. 变形金刚圣斗士版(good)</title>
+<meta rel="type">video</meta>
+<location>
+../ftvideos/transformerandshengdoushi_71658439.flv
+</location>
+<image>
+../ftvideos/thumbs/transformerandshengdoushi_71658439.jpg
+</image>
+<annotation>
+A very good video clip for the Transformers.
+</annotation>
+</track>
+
+</trackList>
+</playlist>

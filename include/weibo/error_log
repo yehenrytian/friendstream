@@ -1,0 +1,80 @@
+[25-May-2013 11:47:58] PHP Notice:  Undefined index:  refresh_token in /home6/overthro/public_html/friendstreamca/include/weibo/saetv2.ex.class.php on line 204
+[25-May-2013 12:47:11] PHP Notice:  Undefined index:  refresh_token in /home6/overthro/public_html/friendstreamca/include/weibo/saetv2.ex.class.php on line 204
+[25-May-2013 17:09:23] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[25-May-2013 18:07:10] PHP Notice:  Undefined index:  refresh_token in /home6/overthro/public_html/friendstreamca/include/weibo/saetv2.ex.class.php on line 204
+[29-May-2013 03:04:14] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[31-May-2013 10:22:31] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[13-Jun-2013 09:16:27] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[26-Jun-2013 08:17:06] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[27-Jun-2013 09:34:04] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[16-Jul-2013 11:41:39] PHP Notice:  Undefined index:  refresh_token in /home6/overthro/public_html/friendstreamca/include/weibo/saetv2.ex.class.php on line 204
+[24-Jul-2013 22:12:53] PHP Notice:  Undefined index:  refresh_token in /home6/overthro/public_html/friendstreamca/include/weibo/saetv2.ex.class.php on line 204
+[13-Sep-2013 00:27:00] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[13-Sep-2013 15:32:01] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[15-Sep-2013 08:21:31] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[15-Sep-2013 14:34:56] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[18-Sep-2013 11:19:19] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[21-Sep-2013 03:13:39] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[21-Sep-2013 14:51:49] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[26-Sep-2013 16:25:54] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[27-Sep-2013 05:10:11] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[07-Oct-2013 19:58:25] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[08-Oct-2013 02:33:15] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[29-Oct-2013 05:56:42] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[06-Nov-2013 04:50:57] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[15-Nov-2013 11:27:16] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[15-Nov-2013 16:02:39] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[15-Nov-2013 16:15:54] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[15-Nov-2013 17:55:42] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[15-Nov-2013 21:50:30] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[15-Nov-2013 22:02:40] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[15-Nov-2013 22:03:23] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[15-Nov-2013 22:37:36] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[16-Nov-2013 03:34:05] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[16-Nov-2013 03:59:02] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[16-Nov-2013 05:12:29] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[16-Nov-2013 13:06:32] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[16-Nov-2013 17:36:17] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[16-Nov-2013 18:12:51] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[16-Nov-2013 18:16:02] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[16-Nov-2013 19:18:14] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[16-Nov-2013 20:19:48] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[17-Nov-2013 08:30:27] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[17-Nov-2013 17:05:18] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[26-Nov-2013 18:48:25] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[27-Nov-2013 07:53:26] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[24-Dec-2013 07:35:00] PHP Notice:  Undefined index:  refresh_token in /home6/overthro/public_html/friendstreamca/include/weibo/saetv2.ex.class.php on line 204
+[28-Dec-2013 05:14:26] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[28-Dec-2013 10:50:08] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[29-Dec-2013 18:03:45] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[30-Dec-2013 00:11:20] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[30-Dec-2013 08:02:03] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[30-Dec-2013 15:43:31] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[30-Dec-2013 21:25:44] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[31-Dec-2013 10:03:23] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[01-Jan-2014 03:52:23] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[01-Jan-2014 05:23:24] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[01-Jan-2014 12:06:38] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[01-Jan-2014 12:35:19] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[01-Jan-2014 18:09:06] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[01-Jan-2014 21:55:52] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[01-Jan-2014 22:21:33] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[02-Jan-2014 03:57:38] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[12-Jan-2014 18:50:08] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[19-Jan-2014 14:40:10] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[21-Jan-2014 11:30:48 America/Denver] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[22-Jan-2014 02:25:45 America/Denver] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[23-Jan-2014 15:09:51 America/Denver] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[24-Jan-2014 16:15:26 America/Denver] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[26-Jan-2014 00:00:49 America/Denver] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[29-Jan-2014 19:24:20 America/Denver] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[30-Jan-2014 21:51:22 America/Denver] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[02-Feb-2014 20:53:59 America/Denver] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[13-Feb-2014 05:50:00 America/Denver] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[13-Feb-2014 11:03:37 America/Denver] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[25-Feb-2014 12:31:25 America/Denver] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[05-Mar-2014 03:43:04 America/Denver] PHP Notice:  Undefined index: refresh_token in /home6/overthro/public_html/friendstreamca/include/weibo/saetv2.ex.class.php on line 204
+[14-Mar-2014 12:47:45 America/Denver] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[25-Mar-2014 02:07:38 America/Denver] PHP Notice:  Undefined index: refresh_token in /home6/overthro/public_html/friendstreamca/include/weibo/saetv2.ex.class.php on line 204
+[07-Apr-2014 05:56:32 America/Denver] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19
+[07-Apr-2014 09:18:51 America/Denver] PHP Notice:  Undefined variable: token in /home6/overthro/public_html/friendstreamca/include/weibo/callback.php on line 19

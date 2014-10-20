@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<file>videolist.xml</file>
+<autostart>true</autostart>
+<backcolor>000000</backcolor>
+<frontcolor>CCCCCC</frontcolor>
+<screencolor>000000</screencolor>
+<volume>50</volume>
+<playlistsize>445</playlistsize>
+<playlist>right</playlist>
+<logo>http://www.firsttimer.ca/images/firsttimer-logo2cropsmall.jpg</logo>
+<link>http://www.firsttimer.ca</link>
+<linktarget>_self</linktarget>
+</config>
